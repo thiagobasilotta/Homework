@@ -1,0 +1,68 @@
+body{
+    background-color:brown;
+}
+
+h1{
+    background-color: aliceblue;
+
+}
+
+
+.title{background-color:rgb(143, 31, 31); font-size: 2em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+justify-content:
+
+}
+
+h3{font-size: 23px;
+
+}
+
+#principal{ background-color: rgb(112, 33, 33);
+font-size: 3em; border: solid black 2px;
+width: 65vw; margin: 2em; margin: auto; padding: 1em;
+
+}
+
+.logo{
+    width: 175px; border: black 1px solid; border-radius: 10%; padding: 2em; transition: 1s;
+    height: 180px;
+
+}
+
+
+.logo:hover{
+    background-color: red;
+}
+
+
+
+
+
+
+
+.titulos{
+    border:black 2px solid
+}
+
+#clima{
+
+    width: 85vw;
+    margin: auto;
+    margin-top: 1,5em;
+    border: 2px solid black;
+    border-radius:1%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 1em;
+     align-items: center;
+
+}
+
+
+
+
+
